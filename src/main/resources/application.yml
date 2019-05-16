@@ -6,3 +6,5 @@ spring.cloud.config.server.git:
 
 #spring.profiles.active: native
 #spring.cloud.config.server.native.searchLocations: file:///C:/workspace/config-git-repo
+
+management.endpoints.web.base-path: /admin
